@@ -10,10 +10,10 @@ Create a script that generates a _System Information Page_. The page should disp
    - How long the computer has been on
    - Disk space usage
  - Use the following variables:
-   - $USER
-   - $SHELL
+   - `USER`
+   - `SHELL`
    - Create 2 of your own
- - Take create direction! Add whatever you'd like to your page and make it look awesome
+ - Take creative direction! Add whatever you'd like to your page and make it look awesome
    
 ## Important Hints
  - Use the following commands:
@@ -23,12 +23,13 @@ Create a script that generates a _System Information Page_. The page should disp
  - For the HTML: Use `<h1>`, `<h2>`, `<p>`, and `<pre>` tags
 
 ## External Resources
- - If you need a reference for [HTML](http://www.w3schools.com/html/default.asp) tags, use [w3schools](http://www.w3schools.com/tags/)
- - Here are a couple of references for here documents [1](http://www.tldp.org/LDP/abs/html/here-docs.html) [2](https://bash.cyberciti.biz/guide/Here_documents)
- - [Slides on Bash Shell Scripting](http://slides.com/jheadland/shellscripting):
+ - [Slides on Bash shell scripting](http://slides.com/jheadland/shellscripting):
    - [Parameter and command subsitution expansion](http://slides.com/jheadland/shellscripting#/0/6)
    - [Variables](http://slides.com/jheadland/shellscripting#/0/11)
    - [Here documents](http://slides.com/jheadland/shellscripting#/0/12)
+ - If you need a reference for [HTML](http://www.w3schools.com/html/default.asp) tags, use [w3schools](http://www.w3schools.com/tags/)
+ - Here are more references for here documents: [1](http://www.tldp.org/LDP/abs/html/here-docs.html) [2](https://bash.cyberciti.biz/guide/Here_documents)
+
  
 ### The HTML skeleton
 ```html
