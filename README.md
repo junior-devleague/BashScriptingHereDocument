@@ -17,9 +17,9 @@ Create a script that generates a _System Information Page_. The page should disp
    
 ## Important Hints
  - Use the following commands:
-   - df -h
-   - date
-   - uptime -p
+   - `df -h`
+   - `date`
+   - `uptime -p`
  - For the HTML: Use `<h1>`, `<h2>`, `<p>`, and `<pre>` tags
 
 ## External Resources
